@@ -22,5 +22,5 @@ EXPOSE 3000
  
 # Command to run your app
 
-CMD ["node", "index.js"]
+CMD ["npm", "start"]
  
